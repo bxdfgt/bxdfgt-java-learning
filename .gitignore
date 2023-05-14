@@ -1,1 +1,36 @@
 /.idea
+/zero/gulimall/.idea
+/zero/gulimall-learning/.idea
+
+HELP.md
+/zero/gulimall/target/
+/zero/gulimall/**/target/
+!/zero/gulimall/**/.mvn/wrapper/maven-wrapper.jar
+!/zero/gulimall/**/src/main/**
+!/zero/gulimall/**/src/test/**
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/zero/gulimall/nbproject/private/
+/zero/gulimall/nbbuild/
+/zero/gulimall/dist/
+/zero/gulimall/nbdist/
+/zero/gulimall/.nb-gradle/
+/zero/gulimall/build/
+
+### VS Code ###
+.vscode/
